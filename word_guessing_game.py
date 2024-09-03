@@ -156,7 +156,7 @@ class WordGuessingGame:
         # Showing the current progress
         self.current_word.config(text=self.word_showed)
 
-    def play_again(self, won, cheat=False):
+    def play_again(self, won):
         # Removing unwanted items
         self.title.config(text='')
         self.submit_button.pack_forget()
