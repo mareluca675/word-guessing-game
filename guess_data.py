@@ -1,12 +1,11 @@
 words = [
-    #"Crypt",
-    #"Gumball",
-    #"Pancakes",
-    #"Yacht",
-    #"Jazz",
-    #"Tzatziki",
-    #"Johnny",
-    'a'
+    "Crypt",
+    "Gumball",
+    "Pancakes",
+    "Yacht",
+    "Jazz",
+    "Tzatziki",
+    "Johnny",
 ]
 
 default_value = False
