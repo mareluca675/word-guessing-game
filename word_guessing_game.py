@@ -215,4 +215,3 @@ class WordGuessingGame:
 
 
 WordGuessingGame().screen.mainloop()
-d
